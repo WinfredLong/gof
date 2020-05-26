@@ -10,6 +10,12 @@ public class Client {
     public static void main(String[] args) {
         Singleton singleton = Singleton.getInstance();
         singleton.doSomething();
+
+        for (int i = 0; i < 5; i++) {
+            FixNumSingleton fixNumSingleton = FixNumSingleton.getInstance();
+            fixNumSingleton.doSomething();
+        }
+
     }
 
 }

@@ -1,0 +1,43 @@
+// 技术栈
+SpringBoot
+MybatisPlus
+Dubbo
+RocketMq
+Aspect
+Validator
+// 进阶技术
+ThreadPool
+Sftp/Ftp/FastDfs
+3DES/RSA/MD5
+Base64
+// 第三方开发
+GT
+Sms
+Email
+WeChat
+DingDing
+// 工具
+Apollo
+Jenkins
+WebLogic
+Tomcat
+Git/SVN
+Linux
+BCompare
+XMind
+JMeter
+PostMan
+SwaggerUi
+Oracle/MySql
+// 素质
+阿里编码规约
+六大设计原则
+常用设计模式
+Sonar
+敏捷开发（Scrum/Jira）
+// 了解
+领域模型
+JasLink
+// 待学
+SpringCloud
+Docker
